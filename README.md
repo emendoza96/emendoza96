@@ -16,7 +16,7 @@ To me, DevOps is more than just a methodology or a set of tools. It's a philosop
 ### Contact
 I would love to connect with you! You can find me on:
 
-  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/emiliano-agustín-mendoza-6b9765247)
+  - LinkedIn: [Emiliano Agustín Mendoza | LinkedIn](https://www.linkedin.com/in/emiliano-agustín-mendoza-6b9765247)
   - Email: emilianomendoza294@gmail.com
 
 <!---
