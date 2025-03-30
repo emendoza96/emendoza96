@@ -3,10 +3,10 @@
 Hello! I'm Emiliano Mendoza, a systems engineer passionate about the world of software development and DevOps. This is my space on GitHub where I share some of my projects, learnings, and experiences in the field of technology.
 
 ### About Me
-  - 👨‍💻 Systems engineer with experience in backend development.
-  - 🌱 Currently interested in learning and mastering the world of DevOps.
-  - 💼 Experience with Java Spring Boot, primarily creating microservices.
+  - 👨‍💻 Systems Engineer - Backend Developer.
+  - 💼 Proficient in Java Spring Boot.
   - 🐍 Proficient in Python, especially in data analysis using PySpark.
+  - 🌱 Currently interested in learning and mastering the world of DevOps.
 
 ### What DevOps Means to Me
 
